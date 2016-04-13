@@ -1,0 +1,10 @@
+61ab39cde0db47c9dfba2c642766dc38 *DESCRIPTION
+cfd22fae4ad95b0329285b3c9e45f4ae *NAMESPACE
+bd09f9c694b08d197c9f6911faf426c8 *R/stcov.R
+13101c6359d1db0fc2203b172564b290 *man/haff_cov.Rd
+4ccd8915f98d7293a0395f0076418983 *man/haff_eig.Rd
+70a3403ffb9db1cd8109e23f38c98fbd *man/iso_cov.Rd
+dc08019e6cf2da7ba7c6bbe23195a6c4 *man/iso_eig.Rd
+8192f502803d573f08da2b8593ef900a *man/stein_eig.Rd
+473e4554f5b01b2ea41b9fd9943aab4b *tests/testthat.R
+fb9e0841b1d6898bb6ef8b311c2689bb *tests/testthat/test_stcov.R
